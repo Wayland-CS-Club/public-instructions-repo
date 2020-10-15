@@ -1,4 +1,4 @@
-# CS-Club_2020-2021
+# public-instructions-repo
 
 ## Instructions
 
